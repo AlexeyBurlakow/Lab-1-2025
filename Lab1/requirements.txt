@@ -1,0 +1,5 @@
+prefect
+requests
+pandas
+minio
+clickhouse-connect
